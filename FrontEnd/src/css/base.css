@@ -1,0 +1,15 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, q, i, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, thead, tr, th, td, aside, footer, header, menu, nav, section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+a {
+  text-decoration-line: none;
+}
+nav ul, li{
+  list-style: none;
+}
